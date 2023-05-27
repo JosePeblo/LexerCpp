@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+* {
+    font-family: 'Inconsolata', monospace;
+    background-color: rgb(57, 61, 95);
+    color: rgb(253, 251, 242);
+}
+
+.c {
+    color: rgb(182, 182, 182);
+}
+
+.s {
+    color: greenyellow;
+}
+
+.n {
+    color: rgb(254, 64, 64);
+}
+.d {
+    color: rgb(255, 191, 0);
+}
+.o {
+    color: rgb(130, 67, 255);
+}
+.k {
+    color: rgb(0, 255, 157);
+}
